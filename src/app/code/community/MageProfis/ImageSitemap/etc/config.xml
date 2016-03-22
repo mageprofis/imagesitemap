@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageProfis_ImageSitemap>
+            <version>1.0.0</version>
+        </MageProfis_ImageSitemap>
+    </modules>
+    <global>
+        <models>
+            <mageprofis_imagesitemap>
+                <class>MageProfis_ImageSitemap_Model</class>
+            </mageprofis_imagesitemap>
+
+            <sitemap>
+                <rewrite>
+                    <sitemap>MageProfis_ImageSitemap_Model_Sitemap</sitemap>
+                </rewrite>
+            </sitemap>
+        </models>
+    </global>
+</config>

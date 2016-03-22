@@ -1,0 +1,15 @@
+{
+    "name": "mageprofis/imagesitemap",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Extends Magentos sitemap module with an image sitemap",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Volker Thiel",
+            "email":"volker@mage-profis.de"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageProfis_ImageSitemap>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Sitemap/>
+            </depends>
+        </MageProfis_ImageSitemap>
+    </modules>
+</config>
